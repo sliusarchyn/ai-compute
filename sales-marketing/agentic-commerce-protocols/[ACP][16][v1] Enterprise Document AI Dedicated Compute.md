@@ -489,11 +489,3 @@ For your first 2–5 customers, ACP can be:
 6. `invoice.issue`
 
 Everything else can be phased in.
-
----
-
-If you tell me your intended pricing for MVP (**monthly only** vs **hourly + monthly**) and your initial SKUs (CPU pods + optional 1 GPU pod), I’ll tailor:
-
-* the **Offer schema** (exact fields you need),
-* a **standard RFQ template** you can send prospects,
-* and a **Quote template** that closes deals fast in Document AI.
