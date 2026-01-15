@@ -1,6 +1,6 @@
 # Top niches
 
-### [Enterprise Document AI (OCR → extraction → assistants)](https://docs.google.com/document/u/0/d/1t1xAbkQ7s9fLhYuUjZMgaNa_wD25iqHukPAF-u1dDNc/edit)
+### 16) [Enterprise Document AI (OCR → extraction → assistants)](https://docs.google.com/document/u/0/d/1t1xAbkQ7s9fLhYuUjZMgaNa_wD25iqHukPAF-u1dDNc/edit)
 
 Why this is a great wedge:
 
@@ -14,7 +14,7 @@ What you sell (node-first):
 * **Batch doc pipeline workers** (CPU-heavy) \+ optional **GPU extraction/assistant endpoint** per tenant.  
 * “Compliance-friendly” basics: encryption, RBAC, audit logs, retention controls.
 
-### [Internal Code Copilots (private company codebase)](https://docs.google.com/document/u/0/d/19hdSwC_ztNXBaZs2dBFUUleCtm6K07sNVvEUWivpFoQ/edit)
+### 17) [Internal Code Copilots (private company codebase)](https://docs.google.com/document/u/0/d/19hdSwC_ztNXBaZs2dBFUUleCtm6K07sNVvEUWivpFoQ/edit)
 
 Why it fits:
 
@@ -27,7 +27,7 @@ What you sell:
 * Dedicated “**Copilot pods**” (GPU) \+ “**indexer workers**” (CPU) per org.  
 * Tight RBAC: repo/team-based permissions; audit trails.
 
-### [Private LLM fine-tuning (LoRA/QLoRA) for SMB/enterprise](https://docs.google.com/document/u/0/d/1qfZzFjIZJxzSQlVHY78T0_MULZRjdfaVOT59sO6MHMY/edit)
+### 1) [Private LLM fine-tuning (LoRA/QLoRA) for SMB/enterprise](https://docs.google.com/document/u/0/d/1qfZzFjIZJxzSQlVHY78T0_MULZRjdfaVOT59sO6MHMY/edit)
 
 Why it fits:
 
@@ -39,7 +39,7 @@ What you sell:
 
 * “Fine-tune workspace” \+ “evaluation harness” \+ “deploy endpoint” as one flow.
 
-### [Stable Diffusion / image studios (fine-tune \+ batch generation)](https://docs.google.com/document/u/0/d/1cvo7p4t64UyDT4KE9IVNVAs00woZW_XUU_v5Rk1Hy2k/edit)
+### 3) [Stable Diffusion / image studios (fine-tune \+ batch generation)](https://docs.google.com/document/u/0/d/1cvo7p4t64UyDT4KE9IVNVAs00woZW_XUU_v5Rk1Hy2k/edit)
 
 * Big prosumer/agency market, and lots of jobs can run on **single GPUs** (multi-GPU is mostly a speed optimization).
 
