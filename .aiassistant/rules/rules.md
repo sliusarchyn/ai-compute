@@ -18,9 +18,12 @@ When producing an answer, plan, or new document:
 2. Load `docs/Top niches.md`.
 3. If the topic is customer discovery: load `docs/Research script.md` and relevant `docs/customer-interview-checklists/` files.
 4. If the topic is a specific niche: load the matching `docs/niche-requirements-models/[NRM]...` file(s).
-5. If prioritization or open problems are referenced: load `AllNodes - questions.md`.
+5. If the topic involves competition / differentiation: load relevant files from `competitors/`.
+6. If prioritization or open problems are referenced: load `AllNodes - questions.md`.
 
 If you cannot find a relevant doc, ask the user which niche/checklist/NRM to use.
+
+If competitor info is requested but `competitors/` does not contain that company, ask the user for a link or notes to add.
 
 ## Output expectations
 
@@ -28,6 +31,12 @@ If you cannot find a relevant doc, ask the user which niche/checklist/NRM to use
 - Avoid long narratives.
 - Use clear section headers.
 - Keep scope tight: do not rewrite unrelated documents.
+
+When doing competitor comparisons, prefer this structure:
+
+- `What we know (from repo):` cite file paths (example: `competitors/Oblivus features.md`).
+- `Open questions / TODOs:` what’s missing to validate.
+- `Implications for wedge:` only if directly tied to `general_roadmap.md` / `docs/Top niches.md`.
 
 ## Truthfulness and uncertainty
 
@@ -45,3 +54,4 @@ If you cannot find a relevant doc, ask the user which niche/checklist/NRM to use
 
 - Treat any customer data, corp names, or proprietary notes as sensitive.
 - When creating examples, use placeholders unless user provides permission.
+
